@@ -1,7 +1,5 @@
 # Atharv Juwekar - Senior QA Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=atharvjuwekar&style=flat-square)
-
 ## About Me
 
 Highly skilled Senior QA Engineer with 3 years of experience in automation testing, performance testing, and software development. Proven track record of achieving excellence in fast-paced environments. Strong expertise in Java, Selenium, Postman, Python, and various CI/CD tools.
